@@ -12,7 +12,7 @@ Before running this application, make sure you have the following installed:
 - **pip** (Python package manager)
 - **Git**
 
-## 🚀 Installation & Setup
+##  Installation & Setup
 
 ### 1. Clone the Repository
 
@@ -63,7 +63,7 @@ npm run dev
 The frontend will be running on http://localhost:5173
 
 
-🎯 Features
+### Features
 Item Management
 ✅ Add new items with form validation
 
@@ -95,7 +95,7 @@ User Interface
 ✅ Loading states and error handling
 
 
-🎮 Usage
+###  Usage
 Access the Application: Open http://localhost:5173 in your browser
 
 Manage Items:
