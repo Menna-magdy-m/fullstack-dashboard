@@ -64,7 +64,7 @@ The frontend will be running on http://localhost:5173
 
 
 ### Features
-Item Management
+#### Item Management
 ✅ Add new items with form validation
 
 ✅ Edit existing items
@@ -75,7 +75,7 @@ Item Management
 
 ✅ Persistent sort order
 
-Video Management
+#### Video Management
 ✅ Upload video files (max 100MB)
 
 ✅ Real-time upload progress bar
@@ -85,7 +85,7 @@ Video Management
 ✅ Delete videos
 
 
-User Interface
+#### User Interface
 ✅ Responsive dashboard layout
 
 ✅ Fixed sidebar navigation
@@ -98,7 +98,7 @@ User Interface
 ###  Usage
 Access the Application: Open http://localhost:5173 in your browser
 
-Manage Items:
+#### Manage Items:
 
 Use the form to add new items (name, quantity, price, date)
 
@@ -106,7 +106,7 @@ Drag items to reorder them
 
 Click edit/delete buttons for item actions
 
-Upload Videos:
+#### Upload Videos:
 
 Navigate to Videos page using sidebar
 
