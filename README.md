@@ -19,10 +19,11 @@ Before running this application, make sure you have the following installed:
 ```bash
 git clone https://github.com/Menna-magdy-m/fullstack-dashboard.git
 cd fullstack-dashboard
-
+```
 ### 2. Backend Setup
 
-bash
+```bash
+
 # Navigate to backend directory
 cd backend
 
@@ -43,12 +44,13 @@ python -c "from database import init_db; init_db()"
 
 # Start the backend server
 uvicorn main:app --reload --port 8000
+```
 The backend will be running on http://localhost:8000
 
 3. Frontend Setup
 Open a new terminal window and navigate to the project root:
 
-bash
+```bash
 # Navigate to frontend directory
 cd frontend
 
@@ -57,6 +59,7 @@ npm install
 
 # Start the development server
 npm run dev
+```
 The frontend will be running on http://localhost:5173
 
 
