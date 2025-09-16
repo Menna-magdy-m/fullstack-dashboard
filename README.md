@@ -114,6 +114,5 @@ Monitor upload progress
 Use video player controls to play videos
 
 
-📄 License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
