@@ -30,7 +30,7 @@ venv.bak/
 *.sqlite3
 *.db
 
-# Uploads (لا تحمل ملفات الفيديو)
+# Uploads
 backend/uploads/
 
 # Node.js

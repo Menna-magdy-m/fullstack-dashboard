@@ -51,9 +51,15 @@ The backend will be running on http://localhost:8000
 Open a new terminal window and navigate to the project root:
 
 ```bash
-# Navigate to frontend directory
+# To use Shadecn\UI Navigate to frontend_shadcn directory
+cd frontend_shadcn
+```
+```bash
+# Ohterwise
 cd frontend
+```
 
+```bash
 # Install Node.js dependencies
 npm install
 

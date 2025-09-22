@@ -13,7 +13,7 @@ class Item(Base):
     quantity = Column(Integer)
     price = Column(Float)
     date = Column(DateTime)
-    sort_order = Column(Integer, default=0)  # لترتيب السحب والإفلات
+    sort_order = Column(Integer, default=0)  
 
 class Video(Base):
     __tablename__ = "videos"
